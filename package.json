@@ -1,0 +1,26 @@
+{
+  "name": "search-and-sort-workbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avermeulen/SortAndSearchWorkbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avermeulen/SortAndSearchWorkbook/issues"
+  },
+  "homepage": "https://github.com/avermeulen/SortAndSearchWorkbook#readme",
+  "dependencies": {
+    "mocha": "^2.5.3"
+  }
+}
